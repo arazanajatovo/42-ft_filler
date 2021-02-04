@@ -1,5 +1,5 @@
 # 42-ft_filler
-ft_filler @ 42 - Create your player program to compete against other students on the famous Filler board. 
+ft_filler @ 42 - Create your player program to compete against other students on the Filler board. 
 
 As written from the subject:  
 
